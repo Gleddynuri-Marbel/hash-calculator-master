@@ -1,1 +1,1 @@
-# hash-calculator-master
+# hash-calculator
